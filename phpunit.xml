@@ -15,10 +15,10 @@
          verbose="true">
     <testsuites>
         <testsuite name="Unit">
-            <directory>tests/Unit</directory>
+            <directory>tests/Hj/Unit</directory>
         </testsuite>
         <testsuite name="Functional">
-            <directory>tests/Functional</directory>
+            <directory>tests/Hj/Functional</directory>
         </testsuite>
     </testsuites>
 </phpunit>
